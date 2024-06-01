@@ -19,6 +19,3 @@ Welcome to my GitHub profile! I'm a software engineer based in Toronto, Canada, 
 
 ## 🤖 Languages and Tools
 ![Languages and Tools](https://skillicons.dev/icons?i=aws,js,ts,nodejs,react,python,flask,django,git,github,linux,mysql)
-
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hugowth/)
